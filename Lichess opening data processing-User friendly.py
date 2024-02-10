@@ -1,4 +1,5 @@
 ''' 
+README
 
 Welcome to my script for analysing data on chess openings!
 
