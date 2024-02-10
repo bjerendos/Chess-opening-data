@@ -157,6 +157,9 @@ SOURCES AND COPYRIGHT INFORMATION:
       let me know at berendvanhapert@gmail.com!
       
     - Script written and published by Berend van Hapert, February 2024  
+
+LICENSE:
+    - This project is licensed under the MIT License. See the LICENSE file for details.
      
 '''
 
