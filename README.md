@@ -1,5 +1,3 @@
-''' 
-
 Welcome to my script for analysing data on chess openings!
 
 This script provides useful tools for dissecting opening data, finding specific
@@ -161,5 +159,3 @@ SOURCES AND COPYRIGHT INFORMATION:
 LICENSE:
     
     - This project is licensed under the MIT License. See the LICENSE file for details.
-    
-'''
