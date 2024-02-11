@@ -442,7 +442,7 @@ def run_section(section_choice):
 
         # starting the figure and plotting the values for the histogram
         plt.figure(figsize=(10,6))
-        plt.hist(opening_data['Win % Difference'], bins=bin_edges, alpha=0.7, color='blue', edgecolor='black', density=True, label='Win % Difference')
+        plt.hist(opening_data['Win % Difference'], bins=bin_edges, alpha=0.7, color='blue', edgecolor='black', density=True, label='Chess openings')
 
         # calculating the mean and the standard deviation of the data
         mu, std = norm.fit(opening_data['Win % Difference'])
